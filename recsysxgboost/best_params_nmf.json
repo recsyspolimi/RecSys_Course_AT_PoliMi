@@ -1,0 +1,1 @@
+{"num_factors": 339, "solver_beta_loss": "multiplicative_update:frobenius", "init_type": "nndsvda", "l1_ratio": 0.08081592155438666}
